@@ -1,0 +1,19 @@
+{
+    "name": "khalfanamri/contact",
+    "description": "this is a contact form",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Khalfan",
+            "email": "khalfan.alamri20@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Khalfanamri\\Contact": "src"
+        }
+    }
+}
