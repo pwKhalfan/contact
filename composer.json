@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Khalfanamri\\Contact": "src"
+            "Khalfanamri\\Contact\\": "src"
         }
     }
 }
